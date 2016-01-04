@@ -10,12 +10,22 @@
 
 #### Material Design
 
+- [Material Design Lite](https://github.com/google/material-design-lite) google官方出品
 - [MUI](https://github.com/muicss/mui) 轻量级WEB框架
 
-
-### Angular
+#### Angular
 
 - [LumX](http://ui.lumapps.com/) 基于 AngularJS & Material Design 的框架
+
+#### React
+
+- [Material UI](https://github.com/callemall/material-ui)
+- [Ant Design](http://ant.design/) Ant Design - 一个 UI 设计语言（阿里蚂蚁金服体验技术部出品）
+
+#### 微信
+
+- [WeUI](https://github.com/weui/weui) 微信官方出品
+- [vue-weui](https://github.com/aidenzou/vue-weui) 针对 Vue框架移植的 WeUI 框架的适配
 
 ### 前端工具
 
