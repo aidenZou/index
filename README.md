@@ -87,10 +87,15 @@
 
 ### 导航
 
-- [Hammer.js](http://hammerjs.github.io/) JavaScript 多点触控手势库。
 - [Elevator.js](http://tholman.com/elevator.js/) “返回顶部”效果像真正的电梯一样。
 - [Slideout.js](https://mango.github.io/slideout/) 适用于移动端WEB应用的触摸式导航菜单。
 - [Bootply](http://www.bootply.com/) Bootstrap是一个非常流行的框架，所以这个BootStrap编辑器值得一试。
+
+
+### 触摸
+
+- [Hammer.js](http://hammerjs.github.io/) JavaScript 多点触控手势库。
+
 
 ### 轮播图&画廊
 
