@@ -24,6 +24,22 @@
 
   > 一个DOM元素的观测能见度变化的实用工具库。
 
+- [Roll](https://github.com/williamngan/roll)
+
+  >帮助你跟踪位置、滚动、和分页的JS库
+
+- [clipboard.js](https://github.com/zenorocha/clipboard.js/)
+
+  > 拷贝文字到剪切板的现代化方法
+
+- [html5tooltips.js](https://github.com/ytiurin/html5tooltipsjs)
+
+  > 带有CSS3动画的轻量级简洁Tooltip插件
+
+- [Annotator.js]()
+
+  > 为页面中选中的文本添加注释、高亮、标签等的JS库
+
 ### 导航
 
 - [Hammer.js](http://hammerjs.github.io/)
@@ -123,7 +139,17 @@
 
   > 轻量级“行动到效果”动画库
 
+- [ramjet.js](https://github.com/rich-harris/ramjet) *****
 
+  > 实现DOM元素从一个状态到另一个状态平稳过渡的库
+
+- [mo.js](https://github.com/legomushroom/mojs)
+
+  > motion graphics toolbelt for the web。
+
+- [jQuery.smoothState.js](https://github.com/miguel-perez/smoothState.js)
+
+  > 不显眼的页面过渡jQuery插件
 
 
 ### 辅助工具
@@ -154,3 +180,10 @@
 - [Textures.js](http://riccardoscalco.github.io/textures/)
 
   > 使用SVG元素实现数据可视化。
+
+
+### 另类
+
+- [egg.js](https://github.com/mikeflynn/egg.js)
+
+  > 向网页上添加复活节彩蛋的简单JavaScript库
