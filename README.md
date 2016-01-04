@@ -136,6 +136,10 @@
 
 ### 图形与图表
 
+- [D3](https://github.com/mbostock/d3)
+- [Highcharts](https://github.com/highcharts/highcharts)
+- [ECharts](http://echarts.baidu.com/)
+- [Chart.js](http://www.chartjs.org/)
 - [Clusterize.js](http://nexts.github.io/Clusterize.js/) 可以轻松显示大数据集的微型JavaScript插件。
 - [plotly.js](https://plot.ly/javascript/) 高级、开源的图表库。
 - [Textures.js](http://riccardoscalco.github.io/textures/) 使用SVG元素实现数据可视化。
@@ -143,10 +147,6 @@
 
 ### 另类
 
-- [D3](https://github.com/mbostock/d3)
-- [Highcharts](https://github.com/highcharts/highcharts)
-- [ECharts](http://echarts.baidu.com/)
-- [Chart.js](http://www.chartjs.org/)
 - [egg.js](https://github.com/mikeflynn/egg.js) 向网页上添加复活节彩蛋的简单JavaScript库
 - [Flexbugs](https://github.com/philipwalton/flexbugs) Flexbox常见问题及狂浏览器解决方案
 - [favico.js](http://lab.ejci.net/favico.js/) 在favico上添加数字是不是很nice，点击下面的官网查看效果，这肯定要逼死强迫症了。
