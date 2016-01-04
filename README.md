@@ -13,14 +13,27 @@
 - [Material Design Lite](https://github.com/google/material-design-lite) google官方出品
 - [MUI](https://github.com/muicss/mui) 轻量级WEB框架
 
+### 主流框架
+
+##### MVV*
+
+- [Angular](https://github.com/angular/angular)
+- [Avalon](https://github.com/RubyLouvre/avalon)
+- [Vue](https://github.com/vuejs/vue)
+
+##### other
+
+- [React](https://github.com/facebook/react)
+
 #### Angular
 
+- [UI Bootstrap](https://github.com/angular-ui/bootstrap) 基于 AngularJS & Bootstrap
 - [LumX](http://ui.lumapps.com/) 基于 AngularJS & Material Design 的框架
 
 #### React
 
 - [Material UI](https://github.com/callemall/material-ui)
-- [Ant Design](http://ant.design/) Ant Design - 一个 UI 设计语言（阿里蚂蚁金服体验技术部出品）
+- [Ant Design](http://ant.design/) 基于 React & Ant Design（阿里蚂蚁金服体验技术部出品）
 
 #### 微信
 
