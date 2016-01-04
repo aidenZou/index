@@ -80,6 +80,67 @@
 
   > 超轻量级、高度可定制化的自动补全jQuery插件。
 
+- [Submitter](http://fengyuanchen.github.io/submitter/)
+
+  > 简单的jQuery表单提交插件。
+
+- [Select or Die](http://vst.mn/selectordie/)
+
+  > 为<select>元素设置样式的jQuery插件。
+
+- [jQuery Nice Select](http://hernansartorio.com/jquery-nice-select/)
+
+  > 把原生<select>样式替换为可定制的下拉菜单的轻量级jQuery插件。
+
+- [datedropper](http://felicegattuso.com/projects/datedropper/)
+
+  > 提供管理日期输入字段的jQuery插件。
+
+- [Instantsearch.js](https://community.algolia.com/instantsearch.js/)
+
+  > 用于高性能即时搜索的插件。
+
+- [notie.js](https://jaredreich.com/projects/notie.js/)
+
+  > 清洁、简单的通知插件。
+
+
+## 动画插件&库
+
+- [iconate.js](http://bitshadow.github.io/iconate/)
+
+  > 体积小、性能高的跨浏览器图表转换库。
+
+- [Animate-Plus](https://github.com/bendc/animateplus)
+
+  > 帮你设置CSS及SVG动画属性的高性能JavaScript库。
+
+- [Dynamics.js](http://dynamicsjs.com/)
+
+  > 用于创建基于物理学的CSS动画的JavaScript库
+
+- [cta.js](http://kushagragour.in/lab/ctajs/) *****
+
+  > 轻量级“行动到效果”动画库
+
+
+
+
+### 辅助工具
+
+- [tota11y](https://github.com/Khan/tota11y)
+
+  > 一个可视化工具箱。
+
+- [ally.js](https://github.com/medialize/ally.js)
+
+  > 使访问更简单的JavaScript库。
+
+- [emojify.js](https://github.com/Ranks/emojify.js)
+
+  > 把Emoji关键词转换为表情图的JavaScript模块。
+
+
 ### 图形与图表
 
 - [Clusterize.js](http://nexts.github.io/Clusterize.js/)
