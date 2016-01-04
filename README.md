@@ -28,7 +28,9 @@ is.inNextWeek(myDate); // depends on date value
 
 > JavaScript 多点触控手势库。
 
+- [Elevator.js](http://tholman.com/elevator.js/)
 
+  > “返回顶部”效果像真正的电梯一样。
 
 
 
