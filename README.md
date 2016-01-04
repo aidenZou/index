@@ -143,7 +143,8 @@
 
 - [D3](https://github.com/mbostock/d3)
 - [Highcharts](https://github.com/highcharts/highcharts)
-- [ECharts](http://echarts.baidu.com/)
+- [ECharts](http://echarts.baidu.com/) 百度出品
+- [Chartx](https://github.com/thx/chartx) Chartx是一套数据可视化解决方案，其底层基于自有canvas渲染引擎Canvax（canvax的基于心跳包的主动渲染机制在图表这样并不需要高帧率的场景中有着非常良好的性能）。（阿里出品）
 - [Chart.js](http://www.chartjs.org/)
 - [Clusterize.js](http://nexts.github.io/Clusterize.js/) 可以轻松显示大数据集的微型JavaScript插件。
 - [plotly.js](https://plot.ly/javascript/) 高级、开源的图表库。
