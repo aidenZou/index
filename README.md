@@ -143,6 +143,10 @@
 
 ### 另类
 
+- [D3](https://github.com/mbostock/d3)
+- [Highcharts](https://github.com/highcharts/highcharts)
+- [ECharts](http://echarts.baidu.com/)
+- [Chart.js](http://www.chartjs.org/)
 - [egg.js](https://github.com/mikeflynn/egg.js) 向网页上添加复活节彩蛋的简单JavaScript库
 - [Flexbugs](https://github.com/philipwalton/flexbugs) Flexbox常见问题及狂浏览器解决方案
 - [favico.js](http://lab.ejci.net/favico.js/) 在favico上添加数字是不是很nice，点击下面的官网查看效果，这肯定要逼死强迫症了。
