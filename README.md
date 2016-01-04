@@ -1,5 +1,20 @@
 # index
 
+### UI
+
+#### Material Design
+
+- [MUI](https://github.com/muicss/mui)
+
+  > 轻量级WEB框架
+
+
+### Angular
+
+- [LumX](http://ui.lumapps.com/)
+
+  > 基于 AngularJS & Material Design 的框架
+
 ### 前端工具
 
 - [is.js](https://github.com/arasatasaygin/is.js)
@@ -39,6 +54,10 @@
 - [Annotator.js]()
 
   > 为页面中选中的文本添加注释、高亮、标签等的JS库
+
+- [cookie.js](https://github.com/florian/cookie.js)
+- [store.js](https://github.com/marcuswestin/store.js)
+- [data.js](https://github.com/yanhaijing/data.js) > data.js 是带有消息通知的数据中心，我称其为会说话的数据。旨在让编程变得简单，世界变得美好。
 
 ### 导航
 
@@ -187,3 +206,24 @@
 - [egg.js](https://github.com/mikeflynn/egg.js)
 
   > 向网页上添加复活节彩蛋的简单JavaScript库
+
+- [Flexbugs](https://github.com/philipwalton/flexbugs)
+
+  > Flexbox常见问题及狂浏览器解决方案
+
+
+## CSS
+
+- [Juiced](https://github.com/ovdojoey/Juiced)
+
+  > Flexbox CSS 框架
+
+- [Drop](https://github.com/HubSpot/drop)
+
+  > 用于创建下拉菜单和其他浮动元素的库。
+
+- [SassyFlags](https://github.com/Layerful/sassy-flags)
+
+  > 为你的网站添加旗帜的简单库
+
+
