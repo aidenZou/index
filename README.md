@@ -1,5 +1,11 @@
 # index
 
+> Web开发常用第三方lib导航
+
+> 非常欢迎您的 添加 和 修改 来共同完善常用lib，让 Web开发更简单和快捷
+
+- [md语法](http://nextstepwebs.github.io/simplemde-markdown-editor/markdown-guide)
+
 ### UI
 
 #### Material Design
