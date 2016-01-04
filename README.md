@@ -24,3 +24,11 @@ is.inNextWeek(myDate); // depends on date value
 
 > 一个DOM元素的观测能见度变化的实用工具库。
 
+- [Hammer.js](http://hammerjs.github.io/)
+
+> JavaScript 多点触控手势库。
+
+
+
+
+
