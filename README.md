@@ -35,29 +35,18 @@
   is.inNextWeek(myDate); // depends on date value
   ```
 
-- [VisSense.js](https://github.com/vissense/vissense)
+- [VisSense.js](https://github.com/vissense/vissense) 一个DOM元素的观测能见度变化的实用工具库。
 
-  > 一个DOM元素的观测能见度变化的实用工具库。
+- [Roll](https://github.com/williamngan/roll) 帮助你跟踪位置、滚动、和分页的JS库
 
-- [Roll](https://github.com/williamngan/roll)
+- [clipboard.js](https://github.com/zenorocha/clipboard.js/) 拷贝文字到剪切板的现代化方法
 
-  >帮助你跟踪位置、滚动、和分页的JS库
+- [html5tooltips.js](https://github.com/ytiurin/html5tooltipsjs) 带有CSS3动画的轻量级简洁Tooltip插件
 
-- [clipboard.js](https://github.com/zenorocha/clipboard.js/)
-
-  > 拷贝文字到剪切板的现代化方法
-
-- [html5tooltips.js](https://github.com/ytiurin/html5tooltipsjs)
-
-  > 带有CSS3动画的轻量级简洁Tooltip插件
-
-- [Annotator.js]()
-
-  > 为页面中选中的文本添加注释、高亮、标签等的JS库
-
+- [Annotator.js]() 为页面中选中的文本添加注释、高亮、标签等的JS库
 - [cookie.js](https://github.com/florian/cookie.js)
 - [store.js](https://github.com/marcuswestin/store.js)
-- [data.js](https://github.com/yanhaijing/data.js) > data.js 是带有消息通知的数据中心，我称其为会说话的数据。旨在让编程变得简单，世界变得美好。
+- [data.js](https://github.com/yanhaijing/data.js) data.js 是带有消息通知的数据中心，我称其为会说话的数据。旨在让编程变得简单，世界变得美好。
 
 ### 导航
 
