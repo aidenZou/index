@@ -212,3 +212,13 @@
 - [SassyFlags](https://github.com/Layerful/sassy-flags) 为你的网站添加旗帜的简单库
 
 
+### Hybrid Mobile
+
+- [React Native](http://www.reactnative.com/)
+- [Cordova](http://cordova.apache.org/)
+- [PhoneGap](http://phonegap.com/)
+- [Titanium](http://www.appcelerator.com/product/)
+- [Ionic](http://ionicframework.com/)
+- [MUI](https://github.com/dcloudio/mui/)
+- [APICloud](http://www.apicloud.com/)
+
