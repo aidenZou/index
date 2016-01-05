@@ -194,6 +194,10 @@
 - [postcss-size](https://github.com/postcss/postcss-size) 插件允许你一次性设置宽度和高度
 - [postcss-verthorz](https://github.com/davidhemphill/postcss-verthorz) 插件允许你使用使用单一规则输出水平间距和垂直间距。
 - [postcss-color-short](https://github.com/andrepolischuk/postcss-color-short) 插件使您能够使用一至两位数实现十六进制编码和其他颜色写法的简写。
+- [PreCSS](https://github.com/jonathantneal/precss) PostCSS插件包 [大漠教程](http://www.w3cplus.com/PostCSS/postcss-deep-dive-preprocessing-with-precss.html)
+- [PreCSS的在线编辑器](http://jonathantneal.github.io/precss/)
+
+  > 开发一款属于自己的预处理器：根据自己的编码习惯和项目需求，手动配置语言扩展包，从而定制出属于自己的预处理器。
 
 #### Other
 
