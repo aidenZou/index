@@ -168,9 +168,22 @@
 
 ## CSS
 
+#### CSS重置
+
+- [Normalize CSS](https://github.com/necolas/normalize.css)
+- [Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
+
+  > 它俩的区别：http://segmentfault.com/q/1010000000117189
+  > 推荐用 Normalize CSS
+
+#### PostCss
+
+- [autoprefixer](https://github.com/postcss/autoprefixer)
+
+#### Other
+
 - [Juiced](https://github.com/ovdojoey/Juiced) Flexbox CSS 框架
 - [Drop](https://github.com/HubSpot/drop) 用于创建下拉菜单和其他浮动元素的库。
 - [SassyFlags](https://github.com/Layerful/sassy-flags) 为你的网站添加旗帜的简单库
 
-- [autoprefixer](https://github.com/postcss/autoprefixer)
 
