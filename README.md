@@ -176,9 +176,23 @@
   > 它俩的区别：http://segmentfault.com/q/1010000000117189
   > 推荐用 Normalize CSS
 
-#### PostCss
+#### PostCSS
 
+- [PostCSS](https://github.com/postcss/postcss)
 - [autoprefixer](https://github.com/postcss/autoprefixer)
+- [cssnext](https://github.com/MoOx/postcss-cssnext)
+- [postcss-alias](https://github.com/seaneking/postcss-alias) 插件可以创建自定义的简写属性
+- [postcss-crip](https://github.com/johnie/postcss-crip) 插件有数百个预定义的属性简写
+- [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) 可以像使用默认字体来使用自定义字体，自动生成 @font-face 代码
+- [postcss-circle](https://github.com/jedmao/postcss-circle) 直接地直观地创建圆
+- [postcss-triangle](https://github.com/jedmao/postcss-triangle) 直接地直观地创建三角形
+- [postcss-all-link-colors](https://github.com/jedmao/postcss-all-link-colors) 插件可以一次输出所有链接状态的颜色
+- [postcss-center](https://github.com/jedmao/postcss-center) 插件提供了使用 top: center; 和 left: center; 实现垂直和水平居中
+- [postcss-clearfix](https://github.com/seaneking/postcss-clearfix) 插件使用 clear: fix; 输出代码清除浮动样式
+- [postcss-position](https://github.com/seaneking/postcss-position) 插件允许你同一行添加 top, right,bottom 和 left 作为position 属性的值
+- [postcss-size](https://github.com/postcss/postcss-size) 插件允许你一次性设置宽度和高度
+- [postcss-verthorz](https://github.com/davidhemphill/postcss-verthorz) 插件允许你使用使用单一规则输出水平间距和垂直间距。
+- [postcss-color-short](https://github.com/andrepolischuk/postcss-color-short) 插件使您能够使用一至两位数实现十六进制编码和其他颜色写法的简写。
 
 #### Other
 
