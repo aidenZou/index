@@ -26,8 +26,9 @@
 - [Angular](https://github.com/angular/angular)
 - [Avalon](https://github.com/RubyLouvre/avalon)
 - [Vue](https://github.com/vuejs/vue)
+  - [Vue资料总汇](http://www.jianshu.com/p/afd8e1db7d9b)
 
-##### other
+##### Other
 
 - [React](https://github.com/facebook/react)
 
