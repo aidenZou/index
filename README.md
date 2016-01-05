@@ -222,3 +222,5 @@
 - [MUI](https://github.com/dcloudio/mui/)
 - [APICloud](http://www.apicloud.com/)
 
+- [weex] 淘宝团队基于 vue开发，暂未开源
+
