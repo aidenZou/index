@@ -212,6 +212,15 @@
 - [SassyFlags](https://github.com/Layerful/sassy-flags) 为你的网站添加旗帜的简单库
 
 
+## 坑
+
+### [300 毫秒点击延迟的来龙去脉](http://thx.github.io/mobile/300ms-click-delay/)
+
+- [fastclick](https://github.com/ftlabs/fastclick)
+- [tappy](https://github.com/filamentgroup/tappy/)
+- [tap.js](https://github.com/alexgibson/tap.js)
+
+
 ## Hybrid Mobile
 
 - [React Native](http://www.reactnative.com/)
