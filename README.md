@@ -5,6 +5,7 @@
 > 非常欢迎您的 添加 和 修改（issues） 来共同完善常用lib，让 Web开发更简单和快捷
 
 - [md语法](http://nextstepwebs.github.io/simplemde-markdown-editor/markdown-guide)
+- [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
 ## 数据
 
