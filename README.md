@@ -133,6 +133,8 @@
 
 ## 动画插件&库
 
+- [Velocity.js](https://github.com/julianshapiro/velocity)
+- [AniJS](http://anijs.github.io/)
 - [iconate.js](http://bitshadow.github.io/iconate/) 体积小、性能高的跨浏览器图表转换库。
 - [Animate-Plus](https://github.com/bendc/animateplus) 帮你设置CSS及SVG动画属性的高性能JavaScript库。
 - [Dynamics.js](http://dynamicsjs.com/) 用于创建基于物理学的CSS动画的JavaScript库
