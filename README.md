@@ -150,6 +150,7 @@
 - [tota11y](https://github.com/Khan/tota11y) 一个可视化工具箱。
 - [ally.js](https://github.com/medialize/ally.js) 使访问更简单的JavaScript库。
 - [emojify.js](https://github.com/Ranks/emojify.js) 把Emoji关键词转换为表情图的JavaScript模块。
+- [jQuery.dotdotdot](https://github.com/BeSite/jQuery.dotdotdot) 多行内容先进的跨浏览器的省略。
 - [Code Push](http://microsoft.github.io/code-push/)
 
 
