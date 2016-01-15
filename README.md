@@ -242,6 +242,7 @@
 
 - [Express](https://github.com/strongloop/express)
 - [Koa](https://github.com/koajs/koa)
+- [hapi](https://github.com/hapijs/hapi)
 - [ThinkJS](https://github.com/75team/thinkjs) [官网](https://thinkjs.org/)
 - [Chair](http://yq.aliyun.com/articles/2921) Chair是支付宝前端团队推出的，基于Node.js的Web框架，适用于大部分的Web应用。
 
