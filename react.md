@@ -35,6 +35,10 @@
 
 - [React Web](https://github.com/taobaofed/react-web) 基于 React 的构建无线 Web 应用框架
 
+### 教程
+
+- [react-native-icons插件](http://blog.csdn.net/itfootball/article/details/48710827)
+
 #### - [在设备上运行(Android)](http://wiki.jikexueyuan.com/project/react-native/RunningOnDeviceAndroid.html)
 
 - 通过 Wi-Fi 来配置设备并且连接上你的开发者服务器（要做到这一点，你的电脑和你的手机必须在同一个 wifi 网络下。）
