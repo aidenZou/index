@@ -80,6 +80,10 @@
 - [Keypress](http://dmauro.github.io/Keypress/) 一定记不住键盘上每个键的键位码吧，来试试这个，直观的展示，再也不需要记忆了。
 - [device.js](https://github.com/matthewhudson/device.js) 你想检测用户的设备，试试这个吧，比jq.browser全面多了。
 
+#### 优化
+
+- [pagespeed](https://developers.google.com/speed/pagespeed/insights/)
+
 ### 计算
 
 - [lodash](https://lodash.com/) [中文文档](http://lodash.qiuqudou.com/)
