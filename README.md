@@ -7,6 +7,7 @@
 - [鼓励师](http://miku-dancing.coding.io/)
 - [md语法](http://nextstepwebs.github.io/simplemde-markdown-editor/markdown-guide)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [babel在线编译](https://babeljs.io/repl/)
 
 ## 数据
 
