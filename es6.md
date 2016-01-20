@@ -129,3 +129,58 @@ var book5 = {
 book5.printSellers();
 ```
 
+
+
+## 字符串
+
+### 方法
+
+> String的prototype中添加了几个方便的方法，大部分是indexOf方法的变通：
+
+```
+'aiden zou'.startsWith('aiden');  // true
+'aiden zou'.endsWith('aiden');    // false
+'aiden zou'.includes('aiden');    // true
+// 方便创建重复字符串的方法
+'aiden zou'.repeat(3);            // aiden zouaiden zouaiden zou
+```
+
+### 模板字符串
+
+> 模板字符串提供了一个简洁的方式去创建字符串和实现字符串插值。你可能已经熟悉了它的语法，模板字符串基于符号和花括号符号和花括号{…}，要使用引号将其包围。
+
+```
+let name = 'Aiden',
+   apples = 5,
+   pears = 7,
+   bananas = function() { return 3; }
+
+console.log(`This is ${name}.`);  // This is Aiden.
+
+console.log(`He carries ${apples} apples, ${pears} pears, and ${bananas()} bananas.`);  // He carries 5 apples, 7 pears, and 3 bananas.
+
+// ES5
+console.log('He carries ' + apples + ' apples, ' + pears + ' pears, and ' + bananas() +' bananas.');  // He carries 5 apples, 7 pears, and 3 bananas.
+```
+
+> 和ES5相比较，模板字符串仅仅只是方便字符串的串联。模板字符串通常应用于多行字符串，请记住，空白是字符串的一部分。
+
+```
+let xstr = `1...
+2...
+3 lines long!`; // Yay
+
+console.log(xstr)
+// 1...
+// 2...
+// 3 lines long!
+
+// ES5
+var xstr5 = "1...\n" + 
+"2...\n" +
+"3 lines long!";
+
+// res
+var res = "1...\n2...\n3 lines long!";
+```
+
