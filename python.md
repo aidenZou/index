@@ -1,6 +1,7 @@
 ## MAC
 
-- [DOC](https://docs.python.org/3/)
+- [python DOC](https://docs.python.org/3/)
+- [Tornado 中文翻译](http://demo.pythoner.com/itt2zh/)
 
 
 ### 安装 python 3.x
