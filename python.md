@@ -1,5 +1,8 @@
 ## MAC
 
+- [DOC](https://docs.python.org/3/)
+
+
 ### 安装 python 3.x
 brew install python3
 
