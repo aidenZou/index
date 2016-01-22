@@ -8,6 +8,10 @@
 - [md语法](http://nextstepwebs.github.io/simplemde-markdown-editor/markdown-guide)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [babel在线编译](https://babeljs.io/repl/)
+- [前端那么大，我想去看看](http://div.io/topic/1550)
+
+> Node.js的出现就像把前端从农业化时代一下子拉向了工业化时代。
+
 
 ## 数据
 
