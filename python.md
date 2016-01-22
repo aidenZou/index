@@ -11,3 +11,8 @@ brew install python3
 
 `brew upgrade python3`
 
+### 创建虚拟
+
+`pip install virtualenv`
+
+`pyvenv-3.5 ./develop/py35env`
