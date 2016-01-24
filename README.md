@@ -84,6 +84,7 @@
 - [data.js](https://github.com/yanhaijing/data.js) 是带有消息通知的数据中心，我称其为会说话的数据。旨在让编程变得简单，世界变得美好。
 - [Keypress](http://dmauro.github.io/Keypress/) 一定记不住键盘上每个键的键位码吧，来试试这个，直观的展示，再也不需要记忆了。
 - [device.js](https://github.com/matthewhudson/device.js) 你想检测用户的设备，试试这个吧，比jq.browser全面多了。
+- [Device detection (phone, tablet, desktop, mobile grade, os, versions) ](https://github.com/hgoebl/mobile-detect.js)
 
 #### 优化
 
