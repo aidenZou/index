@@ -24,8 +24,11 @@ brew install python3
 
 ### 模块 install
 
+freeze Output installed packages in requirements format.
+
 `~/develop/py35env/bin/pip3 freeze > requirements.txt`
 
 pip install [options] -r <requirements file> [package-index-options] ...
+
 `~/develop/py35env/bin/pip3 install -r requirements.txt`
 
