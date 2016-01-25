@@ -20,3 +20,12 @@ brew install python3
 `pip install virtualenv`
 
 `pyvenv-3.5 ./develop/py35env`
+
+
+### 模块 install
+
+`~/develop/py35env/bin/pip3 freeze > requirements.txt`
+
+pip install [options] -r <requirements file> [package-index-options] ...
+`~/develop/py35env/bin/pip3 install -r requirements.txt`
+
