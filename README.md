@@ -86,6 +86,15 @@
 - [device.js](https://github.com/matthewhudson/device.js) 你想检测用户的设备，试试这个吧，比jq.browser全面多了。
 - [Device detection (phone, tablet, desktop, mobile grade, os, versions) ](https://github.com/hgoebl/mobile-detect.js)
 
+### 构建
+
+- [Webpack](http://webpack.github.io/)
+  - [Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
+- [FIS](http://fis.baidu.com/)
+- [gulp](http://gulpjs.com/)
+- [Grunt](http://gruntjs.com/)
+  - [Grunt 中文网](http://gruntjs.cn/)
+
 #### 优化
 
 - [pagespeed](https://developers.google.com/speed/pagespeed/insights/)
