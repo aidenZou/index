@@ -2,6 +2,7 @@
 
 - [python DOC](https://docs.python.org/3/)
 - [Tornado 中文翻译](http://demo.pythoner.com/itt2zh/)
+- [pypi](https://pypi.python.org/pypi)
 
 
 ### 安装 python 3.x
