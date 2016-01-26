@@ -12,6 +12,9 @@
 
 > Node.js的出现就像把前端从农业化时代一下子拉向了工业化时代。
 
+## 路漫漫其修远兮，吾将上下而求索
+
+- [前端模块化开发的价值(玉伯)](https://github.com/seajs/seajs/issues/547)
 
 ## 数据
 
@@ -288,3 +291,5 @@
 - [APICloud](http://www.apicloud.com/)
 
 - [weex] 淘宝团队基于 vue开发，暂未开源
+
+
