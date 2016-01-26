@@ -15,6 +15,7 @@
 ## 路漫漫其修远兮，吾将上下而求索
 
 - [前端模块化开发的价值(玉伯)](https://github.com/seajs/seajs/issues/547)
+- [前端知识体系整理（不断更新）](https://github.com/chemdemo/chemdemo.github.io/issues/1)
 
 ## 数据
 
@@ -291,5 +292,7 @@
 - [APICloud](http://www.apicloud.com/)
 
 - [weex] 淘宝团队基于 vue开发，暂未开源
+
+- [Hybrid APP架构设计思路](https://github.com/chemdemo/chemdemo.github.io/issues/12)
 
 
