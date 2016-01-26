@@ -89,7 +89,7 @@
 ### 构建
 
 - [Webpack](http://webpack.github.io/)
-  - [Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
+  - [Webpack 中文指南](https://github.com/zhaoda/webpack-handbook)
 - [FIS](http://fis.baidu.com/)
 - [gulp](http://gulpjs.com/)
 - [Grunt](http://gruntjs.com/)
