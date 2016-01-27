@@ -33,3 +33,12 @@ pip install [options] -r <requirements file> [package-index-options] ...
 
 `~/develop/py35env/bin/pip3 install -r requirements.txt`
 
+
+## 模块
+
+- [jupyter](https://jupyter.org/)
+	`./develop/py35env/bin/pip3 install jupyter`
+	`./develop/py35env/bin/jupyter-notebook`
+- [ipython](https://pypi.python.org/pypi/ipython)
+
+

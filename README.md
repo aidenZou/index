@@ -14,8 +14,14 @@
 
 ## 路漫漫其修远兮，吾将上下而求索
 
+- [JavaScript 模块化七日谈](http://huangxuan.me/js-module-7day/#/)
 - [前端模块化开发的价值(玉伯)](https://github.com/seajs/seajs/issues/547)
+- [前端模块化开发那点历史 - 玉伯](http://blog.jobbole.com/35528/)
 - [前端知识体系整理（不断更新）](https://github.com/chemdemo/chemdemo.github.io/issues/1)
+
+### 文章
+
+- [ES5, ES6, ES2016, ES.Next: JavaScript 的版本是怎么回事？「译」](http://huangxuan.me/2015/09/22/js-version/)
 
 ## 数据
 
@@ -253,8 +259,9 @@
 - [Drop](https://github.com/HubSpot/drop) 用于创建下拉菜单和其他浮动元素的库。
 - [SassyFlags](https://github.com/Layerful/sassy-flags) 为你的网站添加旗帜的简单库
 
-#### PPT
+#### PPT 幻灯片
 
+- [reveal.js](https://github.com/hakimel/reveal.js)
 - [nodePPT](https://github.com/ksky521/nodePPT) [示例](http://qdemo.sinaapp.com/) [三水清的分享](http://js8.in/slide/)
 - [matrix](https://github.com/akira-cn/matrix) [示例](http://matrix.h5jun.com/slide/show?id=109#/)
 
