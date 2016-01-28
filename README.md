@@ -18,10 +18,15 @@
 - [前端模块化开发的价值(玉伯)](https://github.com/seajs/seajs/issues/547)
 - [前端模块化开发那点历史 - 玉伯](http://blog.jobbole.com/35528/)
 - [前端知识体系整理（不断更新）](https://github.com/chemdemo/chemdemo.github.io/issues/1)
+- [移动时代的前端加密](http://div.io/topic/1220)
+- [h5端呼起摄像头扫描二维码并解析](http://div.io/topic/1562)
 
 ### 文章
 
+- [前端工程——基础篇](http://div.io/topic/1275)
 - [ES5, ES6, ES2016, ES.Next: JavaScript 的版本是怎么回事？「译」](http://huangxuan.me/2015/09/22/js-version/)
+
+- [JavaScript事件代理和委托（delegate）](http://blog.csdn.net/majian_1987/article/details/8591385)
 
 ## 数据
 
@@ -60,6 +65,7 @@
 - [Avalon](https://github.com/RubyLouvre/avalon)
 - [Vue](https://github.com/vuejs/vue)
   - [Vue资料总汇](http://www.jianshu.com/p/afd8e1db7d9b)
+  - [Vue 中文社区](http://www.vue-js.com/)
 
 ##### Other
 
@@ -95,6 +101,7 @@
 - [Keypress](http://dmauro.github.io/Keypress/) 一定记不住键盘上每个键的键位码吧，来试试这个，直观的展示，再也不需要记忆了。
 - [device.js](https://github.com/matthewhudson/device.js) 你想检测用户的设备，试试这个吧，比jq.browser全面多了。
 - [Device detection (phone, tablet, desktop, mobile grade, os, versions) ](https://github.com/hgoebl/mobile-detect.js)
+- [jsqrcode](https://github.com/LazarSoft/jsqrcode) Javascript的QRCode的扫描仪(依赖一个叫getUserMedia的属性)
 
 ### 构建
 
@@ -192,6 +199,12 @@
 - [Code Push](http://microsoft.github.io/code-push/)
 
 
+- 代码规范有 ESLint
+- 单元测试有 Karma
+- 集成测试有 CasperJS/Nightwatch
+- 代码覆盖率用 istanbul，
+
+
 ### 在线画图
 
 - [ProcessOn](https://www.processon.com/)
@@ -258,6 +271,7 @@
 - [Juiced](https://github.com/ovdojoey/Juiced) Flexbox CSS 框架
 - [Drop](https://github.com/HubSpot/drop) 用于创建下拉菜单和其他浮动元素的库。
 - [SassyFlags](https://github.com/Layerful/sassy-flags) 为你的网站添加旗帜的简单库
+
 
 #### PPT 幻灯片
 
