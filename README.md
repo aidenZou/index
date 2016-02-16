@@ -7,10 +7,16 @@
 - [鼓励师](http://miku-dancing.coding.io/)
 - [md语法](http://nextstepwebs.github.io/simplemde-markdown-editor/markdown-guide)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [babel在线编译](https://babeljs.io/repl/)
 - [前端那么大，我想去看看](http://div.io/topic/1550)
 
 > Node.js的出现就像把前端从农业化时代一下子拉向了工业化时代。
+
+## 常用
+
+- [颜色](http://s.codepen.io/aidenzou/debug/EPLBmK)
+
 
 ## 路漫漫其修远兮，吾将上下而求索
 
@@ -20,6 +26,11 @@
 - [前端知识体系整理（不断更新）](https://github.com/chemdemo/chemdemo.github.io/issues/1)
 - [移动时代的前端加密](http://div.io/topic/1220)
 - [h5端呼起摄像头扫描二维码并解析](http://div.io/topic/1562)
+
+## 点
+
+- [运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+
 
 ### 文章
 
@@ -103,6 +114,10 @@
 - [Device detection (phone, tablet, desktop, mobile grade, os, versions) ](https://github.com/hgoebl/mobile-detect.js)
 - [jsqrcode](https://github.com/LazarSoft/jsqrcode) Javascript的QRCode的扫描仪(依赖一个叫getUserMedia的属性)
 
+#### 下载
+
+- [plupload](http://www.plupload.com/)
+
 ### 构建
 
 - [Webpack](http://webpack.github.io/)
@@ -160,6 +175,7 @@
 - [Simple Lightbox](http://andreknieriem.de/simple-lightbox/) 同时支持移动端和PC端的jQuery灯箱效果插件。
 - [Chocolat.js](http://chocolat.insipi.de/) 响应式jQuery灯箱插件。
 - [jQuery lightgallery](http://sachinchoolur.github.io/lightGallery/) 轻量级、可定制、模块化、响应式的灯箱画廊插件。
+- [viewerjs](http://fengyuanchen.github.io/viewerjs/) 图片浏览控件
 
 ### 延迟加载
 
@@ -292,9 +308,11 @@
 
 - [Express](https://github.com/strongloop/express)
 - [Koa](https://github.com/koajs/koa)
+	- [一起学koa](https://github.com/base-n/koa-generator-examples)
 - [hapi](https://github.com/hapijs/hapi)
 - [ThinkJS](https://github.com/75team/thinkjs) [官网](https://thinkjs.org/)
 - [Chair](http://yq.aliyun.com/articles/2921) Chair是支付宝前端团队推出的，基于Node.js的Web框架，适用于大部分的Web应用。
+- [alinode](http://alinode.aliyun.com/)
 
 
 ## 模板
@@ -316,4 +334,8 @@
 
 - [Hybrid APP架构设计思路](https://github.com/chemdemo/chemdemo.github.io/issues/12)
 
+
+## 后台管理模板
+
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 

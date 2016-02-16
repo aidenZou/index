@@ -40,5 +40,6 @@ pip install [options] -r <requirements file> [package-index-options] ...
 	`./develop/py35env/bin/pip3 install jupyter`
 	`./develop/py35env/bin/jupyter-notebook`
 - [ipython](https://pypi.python.org/pypi/ipython)
+- [Beautiful](http://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) 一个可以从HTML或XML文件中提取数据的Python库
 
 
