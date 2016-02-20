@@ -43,3 +43,31 @@ pip install [options] -r <requirements file> [package-index-options] ...
 - [Beautiful](http://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) 一个可以从HTML或XML文件中提取数据的Python库
 
 
+## Centos
+
+```shell
+# 下载Python源(Download Python source)
+$wget https://www.python.org/ftp/python/3.5.1/Python-3.5.1.tar.xz
+
+# 提取Python包(Extract Python package):
+$tar xf Python-3.5.1.tar.xz
+
+$xz -d Python-3.5.1.tar.xz
+
+$cd Python-3.5.1
+
+# 编译的Python(Compile Python):
+$./configure
+
+# Make:
+$make
+
+# 安装(Install):
+$make install
+
+# 检查Python版本(Check Python version):
+$which python3.5
+/usr/local/bin/python3.5
+```
+
+

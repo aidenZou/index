@@ -120,6 +120,7 @@
 
 ### 构建
 
+- [Yeoman](http://yeoman.io/)
 - [Webpack](http://webpack.github.io/)
   - [Webpack 中文指南](https://github.com/zhaoda/webpack-handbook)
 - [FIS](http://fis.baidu.com/)
@@ -315,6 +316,8 @@
 - [alinode](http://alinode.aliyun.com/)
 
 
+- [Webot](https://github.com/node-webot)
+
 ## 模板
 
 - [Jade](https://github.com/pugjs/jade) [语法文档](http://naltatis.github.io/jade-syntax-docs/)
@@ -338,4 +341,13 @@
 ## 后台管理模板
 
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
+- [SB Admin](https://github.com/BlackrockDigital/startbootstrap-sb-admin)
+- [SB Admin 2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2)
+- [hplus](http://www.zi-han.net/theme/hplus/)
+
+
+## 工具
+
+- [httpie](https://github.com/jkbrzt/httpie) CLI HTTP client
+
 
